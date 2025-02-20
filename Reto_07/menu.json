@@ -1,0 +1,69 @@
+{
+    "Sodas": [
+        {
+            "name": "Coca-Cola",
+            "price": 2500.0,
+            "type": "Beverage",
+            "size": "",
+            "protein_choice": null,
+            "extra_portion": null,
+            "topping": null
+        },
+        {
+            "name": "Colombiana",
+            "price": 6000.0,
+            "type": "Beverage",
+            "size": "GRANDE",
+            "protein_choice": null,
+            "extra_portion": null,
+            "topping": null
+        },
+        {
+            "name": "Pepsi",
+            "price": 3300.0,
+            "type": "Beverage",
+            "size": "NORMAL",
+            "protein_choice": null,
+            "extra_portion": null,
+            "topping": null
+        }
+    ],
+    "Carnes": [
+        {
+            "name": "Lomo alto",
+            "price": 28600.0,
+            "type": "MainDish",
+            "size": null,
+            "protein_choice": "BEEF",
+            "extra_portion": null,
+            "topping": null
+        },
+        {
+            "name": "Solomillo",
+            "price": 23000.0,
+            "type": "MainDish",
+            "size": null,
+            "protein_choice": "BEEF",
+            "extra_portion": null,
+            "topping": null
+        },
+        {
+            "name": "Ribeye",
+            "price": 36900.0,
+            "type": "MainDish",
+            "size": null,
+            "protein_choice": "BEEF",
+            "extra_portion": null,
+            "topping": null
+        },
+        {
+            "name": "Cadera",
+            "price": 21600.0,
+            "type": "MainDish",
+            "size": null,
+            "protein_choice": "BEEF",
+            "extra_portion": null,
+            "topping": null
+        }
+    ]
+}

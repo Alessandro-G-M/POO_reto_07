@@ -2,9 +2,9 @@
 
 Este proyecto es una solución a un reto de programación orientada a objetos que consiste en la gestión de menús y órdenes en un restaurante. El sistema permite crear, actualizar, eliminar y visualizar ítems en diferentes menús, así como gestionar órdenes utilizando una cola FIFO (First In, First Out).
 
-## Estructura del Proyecto
+## Estructura del Reto
 
-El proyecto está organizado en los siguientes archivos:
+El reto está organizado en los siguientes archivos:
 
 - **`main.py`**: Punto de entrada del programa. Contiene el menú principal y la lógica para interactuar con las clases de gestión de menús y órdenes.
 - **`Restaurante/Menu.py`**: Define las clases para los ítems del menú (`Beverage`, `MainDish`, `Starters`, `Desserts`) y una clase base `MenuItem`. También incluye un `namedtuple` para representar los ítems del menú.
